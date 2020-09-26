@@ -1,0 +1,12 @@
+{
+  "name": "decouverte-socket.IO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SofianePean/D-couverte-Socket.IO.git",
+  "author": "SofianePean <pean.sofiane@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.2",
+    "socket.io": "^2.3.0"
+  }
+}
